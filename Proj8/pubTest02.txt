@@ -1,0 +1,11 @@
+Heapified array (max-heap):
+90 50 80 40 30 70 60 5 10 20 
+-----------------
+Log of swaps during heapify:
+Heapify swap: Swapped index 5 (30) with index 10 (90)
+Heapify swap: Swapped index 4 (10) with index 9 (40)
+Heapify swap: Swapped index 3 (60) with index 7 (80)
+Heapify swap: Swapped index 2 (20) with index 5 (90)
+Heapify swap: Swapped index 5 (20) with index 10 (30)
+Heapify swap: Swapped index 1 (50) with index 2 (90)
+-----------------

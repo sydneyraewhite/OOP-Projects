@@ -1,0 +1,11 @@
+Heapified array (min-heap):
+5 10 60 20 30 70 80 50 40 90 
+-----------------
+Log of swaps during heapify:
+Heapify swap: Swapped index 4 (10) with index 8 (5)
+Heapify swap: Swapped index 2 (20) with index 4 (5)
+Heapify swap: Swapped index 4 (20) with index 8 (10)
+Heapify swap: Swapped index 1 (50) with index 2 (5)
+Heapify swap: Swapped index 2 (50) with index 4 (10)
+Heapify swap: Swapped index 4 (50) with index 8 (20)
+-----------------

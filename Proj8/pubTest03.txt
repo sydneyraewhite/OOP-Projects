@@ -1,0 +1,27 @@
+Array after heapsort:
+1 7 8 12 19 27 33 36 42 55 
+-----------------
+Log of swaps during heapsort:
+HeapSort swap: Swapped index 1 (55) with index 10 (7)
+HeapSort swap: Swapped index 1 (7) with index 3 (42)
+HeapSort swap: Swapped index 3 (7) with index 6 (19)
+HeapSort swap: Swapped index 1 (42) with index 9 (8)
+HeapSort swap: Swapped index 1 (8) with index 2 (36)
+HeapSort swap: Swapped index 2 (8) with index 4 (33)
+HeapSort swap: Swapped index 4 (8) with index 8 (27)
+HeapSort swap: Swapped index 1 (36) with index 8 (8)
+HeapSort swap: Swapped index 1 (8) with index 2 (33)
+HeapSort swap: Swapped index 2 (8) with index 4 (27)
+HeapSort swap: Swapped index 1 (33) with index 7 (1)
+HeapSort swap: Swapped index 1 (1) with index 2 (27)
+HeapSort swap: Swapped index 2 (1) with index 5 (12)
+HeapSort swap: Swapped index 1 (27) with index 6 (7)
+HeapSort swap: Swapped index 1 (7) with index 3 (19)
+HeapSort swap: Swapped index 1 (19) with index 5 (1)
+HeapSort swap: Swapped index 1 (1) with index 2 (12)
+HeapSort swap: Swapped index 2 (1) with index 4 (8)
+HeapSort swap: Swapped index 1 (12) with index 4 (1)
+HeapSort swap: Swapped index 1 (1) with index 2 (8)
+HeapSort swap: Swapped index 1 (8) with index 3 (7)
+HeapSort swap: Swapped index 1 (7) with index 2 (1)
+-----------------
