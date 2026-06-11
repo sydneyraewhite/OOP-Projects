@@ -1,0 +1,7 @@
+Swapped 2 and 5: [2, 5, 9, 1, 5, 7]
+Swapped 1 and 9: [2, 5, 1, 9, 5, 7]
+Swapped 5 and 9: [2, 5, 1, 5, 9, 7]
+Swapped 7 and 9: [2, 5, 1, 5, 7, 9]
+Swapped 5 and 1: [2, 1, 5, 5, 7, 9]
+Swapped 2 and 1: [1, 2, 5, 5, 7, 9]
+[1, 2, 5, 5, 7, 9]
